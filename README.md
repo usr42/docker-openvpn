@@ -205,6 +205,5 @@ of a guarantee in the future.
   * OS X Mavericks with Tunnelblick 3.4beta26 (build 3828) using openvpn-2.3.4
   * ArchLinux OpenVPN pkg 2.3.4-1
 
-
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkylemanna%2Fdocker-openvpn.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkylemanna%2Fdocker-openvpn?ref=badge_large)
